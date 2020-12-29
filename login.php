@@ -1,0 +1,9 @@
+<?php
+	include('php/wbiims_database.php');
+	include('php/head_part.php');
+	include('php/hn.php');
+	include('php/n.php');
+	include('php/tj.php');
+	include('php/login.php');
+	include('php/closing_tags.html');
+?>

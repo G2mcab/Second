@@ -1,0 +1,11 @@
+<?php
+	include('php/wbiims_database.php');
+	include('php/head_part.php');
+	$role='admin';
+	session_start();
+	include('php/security.php');
+	include('php/hn.php');
+	include('php/an.php');
+	include('php/var.php');
+	include('php/closing_tags.html');
+?>
